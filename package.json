@@ -21,7 +21,7 @@
   "version": "0.5.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mzilic/jsdox.git"
+    "url": "https://github.com/Baasic/jsdox.git"
   },
   "main": "./jsdox.js",
   "files": [
@@ -58,5 +58,5 @@
     "node": ">=0.8.4"
   },
   "homepage": "http://jsdox.org",
-  "bugs": "https://github.com/mzilic/jsdox/issues"
+  "bugs": "https://github.com/Baasic/jsdox/issues"
 }
